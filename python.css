@@ -176,11 +176,11 @@
     display: inline-block;
     vertical-align: top;
     font-size: 13px;
-    border-top: #73a7d5;
-    border-style: solid;
-    border-right: none;
+    border-top: #73a7d5 solid;
+    /*border-style: solid;
+    /*border-right: none;
     border-bottom: none;
-    border-left: none;
+    border-left: none;*/
     border-width: 5px;
     margin-top: 10px;
     padding-top: 10px;
